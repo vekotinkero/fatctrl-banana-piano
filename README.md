@@ -10,7 +10,7 @@ Soon I discovered that MakeyMakey had a pretty nice noise filtering code. Well, 
 
 Banana Piano uses nine resistive touch sensors that can be hooked basically to anything conductive with a banana cables and alligator clips. Then there's the clanky ground cable that's used to finish the circuit. The cable is connected to your wrist with a cheap Chinese grounding bracelet. So the idea is pretty much the same as in MakeyMakey.
 
-I even use an Arduino Leonardo board, where MIDI and HID applications are made easy. I can recommend that for everybody who wants to make something quickly and easily that helps living things interact with computers.
+I even use an [Arduino Leonardo](http://arduino.cc/en/Main/arduinoBoardLeonardo) board, where MIDI and HID applications are made easy. I can recommend that for everybody who wants to make something quickly and easily that helps living things interact with computers.
 
 In my controller there's also one potentiometer for Control Changes and a so-called scale selector for selecting different pre-set scales. And obviously the octave buttons as well. The scale selector is handy thing to have, because you can change your controller setup from chromatic drum machine to a lovely melancholic E minor scale and play some tunes. 
 
